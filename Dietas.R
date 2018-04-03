@@ -17,6 +17,7 @@ sd(c(tabla[,3]))
 IQR(c(tabla[,1]))
 IQR(c(tabla[,2]))
 IQR(c(tabla[,3]))
+#hola gol
 quantile(c(tabla[,1]), c(.1, .25, .5, .75, .9))
 quantile(c(tabla[,2]), c(.1, .25, .5, .75, .9))
 quantile(c(tabla[,3]), c(.1, .25, .5, .75, .9))
